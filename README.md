@@ -1,2 +1,7 @@
-# random-json-generator
-# JSON Generator  JSON Generator with UI, generate result with type :  - String - Number - Date ( Y-m-d )
+# Random JSON Generator
+
+ JSON Generator with UI, generate result with type : 
+- String
+- Number
+- Date ( Y-m-d )
+
